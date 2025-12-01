@@ -36,6 +36,9 @@ Projeto refatorado para aplicar conceitos de:
 - Validação de entrada
 - Boas práticas de nomenclatura
 
+## Link repositorio
+
+https://github.com/ithalo2006/Meu-projeto-final.git
 
 ## Estrutura de Pastas
 
@@ -62,7 +65,3 @@ meu_projeto/
 ├── backup/
 ├── .gitignore
 └── README.md
-
-## Link repositorio
-
-https://github.com/ithalo2006/Meu-projeto-final.git
